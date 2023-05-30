@@ -13,4 +13,4 @@ This book, 'The Rise of Artificial Intelligence: How Smart Machines Will Change 
 
 Whether you are a business leader, policy maker, or simply interested in the future of technology, this book has something for you. By exploring the latest developments and applications of AI, you can gain a deeper understanding of how smart machines will change the future and what we can do to prepare for this transformation.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
