@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) can be broadly divided into three main categories: reactive machines, limited memory, and self-aware. In this chapter, we will explore each of these categories in more detail.
 

@@ -1,5 +1,3 @@
-Examples of AI Applications Today
-======================================================================================
 
 Artificial intelligence (AI) has already made significant advances in many different areas, from healthcare to finance to transportation. In this chapter, we will explore some examples of AI applications that are already being used today.
 

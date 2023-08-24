@@ -1,5 +1,3 @@
-Economic Implications of AI
-===============================================================
 
 The impact of artificial intelligence (AI) on society is a complex and multifaceted issue. One area where the impact is particularly striking is in the realm of economics. As AI technologies continue to develop and become more widespread, they are likely to have significant economic implications for individuals, businesses, and entire industries.
 

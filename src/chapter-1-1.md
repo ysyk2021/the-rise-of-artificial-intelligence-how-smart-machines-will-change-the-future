@@ -1,5 +1,3 @@
-Overview of the Rise of Artificial Intelligence
-========================================================================
 
 Artificial intelligence (AI) is rapidly becoming one of the most transformative technologies of our time. In recent years, we have seen tremendous progress in the development of AI, driven by advances in machine learning and deep learning.
 

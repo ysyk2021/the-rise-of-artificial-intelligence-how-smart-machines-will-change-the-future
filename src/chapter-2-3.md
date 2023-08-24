@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Machine learning is a key component of artificial intelligence (AI) and has become increasingly important in recent years as the volume of data that needs to be processed has grown exponentially. In this chapter, we will explore some of the fundamental techniques used in machine learning.
 

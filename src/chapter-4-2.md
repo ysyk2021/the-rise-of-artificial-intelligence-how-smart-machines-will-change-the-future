@@ -1,5 +1,3 @@
-Social and Cultural Impacts of AI
-=====================================================================
 
 The impact of artificial intelligence (AI) on society extends beyond just economic implications. As AI technologies become more integrated into our daily lives, they are likely to have significant social and cultural impacts as well.
 

@@ -1,5 +1,3 @@
-Chapter 3: Current State of Artificial Intelligence
-===================================================
 
 In this chapter, we will examine the current state of artificial intelligence (AI) and how it is being used today. We will also explore some of the recent trends in AI development.
 

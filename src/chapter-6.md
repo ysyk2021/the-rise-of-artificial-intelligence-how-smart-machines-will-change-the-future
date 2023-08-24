@@ -1,5 +1,3 @@
-Chapter 6: Future of AI
-=======================
 
 As AI technology continues to evolve and become more sophisticated, it is important to consider the emerging trends and potential developments that may shape its future. In this chapter, we will explore two key areas related to the future of AI: emerging trends and potential developments, and predictions for the future of AI.
 

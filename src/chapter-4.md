@@ -1,5 +1,3 @@
-Chapter 4: Impact of AI on Society
-==================================
 
 Artificial intelligence (AI) has the potential to transform many aspects of our society, from healthcare to transportation to finance. However, as AI technology continues to evolve and become more prevalent, it also raises important economic, social, and ethical implications that must be carefully considered. In this chapter, we will explore three key areas of impact: the economic implications of AI, social and cultural impacts of AI, and ethical considerations.
 
