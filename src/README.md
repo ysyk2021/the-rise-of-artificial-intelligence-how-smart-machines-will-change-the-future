@@ -13,3 +13,7 @@ This book, 'The Rise of Artificial Intelligence: How Smart Machines Will Change 
 Whether you are a business leader, policy maker, or simply interested in the future of technology, this book has something for you. By exploring the latest developments and applications of AI, you can gain a deeper understanding of how smart machines will change the future and what we can do to prepare for this transformation.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
