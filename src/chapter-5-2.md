@@ -1,5 +1,4 @@
-Chapter 6: Security and Privacy Concerns
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) technologies become increasingly integrated into our daily lives, they bring both incredible opportunities and significant challenges, particularly in the realm of security and privacy. In this chapter, we will delve into the pressing concerns surrounding AI and the measures taken to address them.
 

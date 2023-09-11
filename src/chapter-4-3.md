@@ -1,5 +1,4 @@
-Chapter 5: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we stand on the precipice of a future shaped by artificial intelligence (AI) and smart machines, it is imperative to contemplate the ethical considerations that accompany this technological revolution. AI has the potential to bring about immense benefits, but it also poses ethical dilemmas that warrant careful examination.
 

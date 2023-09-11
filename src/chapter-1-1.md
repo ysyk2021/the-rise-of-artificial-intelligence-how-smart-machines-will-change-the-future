@@ -1,5 +1,4 @@
-Chapter 2: Overview of the Rise of Artificial Intelligence
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is a transformative force that is revolutionizing industries, reshaping societies, and influencing the way we live and work. In this chapter, we will provide an overview of the rapid ascent of AI, its historical context, key milestones, and the driving forces behind its growth.
 

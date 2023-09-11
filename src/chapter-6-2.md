@@ -1,5 +1,4 @@
-Chapter 7: Predictions for the Future of AI
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The future of artificial intelligence (AI) holds immense promise and potential, with far-reaching implications across various aspects of our society and economy. In this chapter, we will explore some key predictions for the future of AI, considering how smart machines will continue to evolve and reshape our world.
 

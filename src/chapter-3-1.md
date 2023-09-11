@@ -1,5 +1,4 @@
-Chapter 3: Examples of AI Applications Today
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has already made significant inroads into various aspects of our daily lives and industries. In this chapter, we will explore concrete examples of AI applications across diverse domains, showcasing the transformative impact of smart machines in the present day.
 

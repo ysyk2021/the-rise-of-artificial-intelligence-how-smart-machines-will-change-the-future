@@ -1,5 +1,4 @@
-Chapter 4: Social and Cultural Impacts of AI
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The rise of artificial intelligence (AI) is not merely a technological advancement; it is a transformative force that reverberates through every facet of society and culture. In this chapter, we will explore the profound social and cultural impacts of AI, shedding light on how smart machines are reshaping the very fabric of our lives.
 

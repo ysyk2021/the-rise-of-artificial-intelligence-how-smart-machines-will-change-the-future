@@ -1,5 +1,4 @@
-Chapter 2: History of Artificial Intelligence
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is a field that has seen remarkable progress and innovation since its inception. In this chapter, we will embark on a journey through the history of AI, tracing its origins, key milestones, and the evolution of smart machines that have led us to the transformative era we now find ourselves in.
 

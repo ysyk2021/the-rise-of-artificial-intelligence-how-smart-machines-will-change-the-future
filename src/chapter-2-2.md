@@ -1,5 +1,4 @@
-Chapter 5: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is a diverse field with various approaches and technologies. In this chapter, we will explore the different types of AI systems that are driving the rise of smart machines and reshaping the future.
 

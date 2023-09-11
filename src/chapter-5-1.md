@@ -1,5 +1,4 @@
-Chapter 7: Employment Disruption and Job Losses
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The rise of artificial intelligence (AI) and smart machines is reshaping the employment landscape, bringing about both opportunities and challenges. In this chapter, we will explore the impact of AI on the job market, including the disruptions it causes and the strategies to navigate this transformative shift.
 
